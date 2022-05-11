@@ -1,0 +1,18 @@
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\combinacoes\obj\Debug\combinacoes.csprojResolveAssemblyReference.cache
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\combinacoes\bin\Debug\combinacoes.exe.config
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\combinacoes\bin\Debug\combinacoes.exe
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\combinacoes\bin\Debug\combinacoes.pdb
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\combinacoes\obj\Debug\combinacoes.exe
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\combinacoes\obj\Debug\combinacoes.pdb
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\bin\Debug\combinacoes.exe.config
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\bin\Debug\combinacoes.exe
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\bin\Debug\combinacoes.pdb
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\obj\Debug\combinacoes.csprojResolveAssemblyReference.cache
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\obj\Debug\combinacoes.exe
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes\obj\Debug\combinacoes.pdb
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes em 6\bin\Debug\combinacoes.exe.config
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes em 6\bin\Debug\combinacoes.exe
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes em 6\bin\Debug\combinacoes.pdb
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes em 6\obj\Debug\combinacoes.csprojResolveAssemblyReference.cache
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes em 6\obj\Debug\combinacoes.exe
+D:\MEUS DOCUMENTOS\Documents\SharpDevelop Projects\combinacoes em 6\obj\Debug\combinacoes.pdb
